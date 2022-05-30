@@ -3,6 +3,7 @@ package Algorithm;
 import java.util.Scanner;
 
 //배열을 역정렬하기.
+//내가 만들어 본 역정렬 알고리즘
 public class Chap02_ReverseArray {
 
 	public static void main(String[] args) {
